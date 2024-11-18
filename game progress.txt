@@ -1,0 +1,22 @@
+game developement
+has 5 dots showing up at random places
+now the player size is increasing
+got 1 enemy showing up for every 2 dots consumed
+enemy breaks the game and the score is displaed
+enemy is replaced with boom
+with every dot taken player size increase
+player rotates in the direction of the arrow
+added pill
+pill brings player to the same size as before
+added new highScore, which later can have 2 dialog boxes either to continue or exit
+
+cleaning up the code
+trying screen size = not working 20240921
+
+timer added for pill, it is more fun now
+
+1.might need to remove some enemies to keep playing game-increase addedcount
+2.what if there is no unique spots left
+3.sometimes the pieces crop up too close to the player
+4.want to save the highscore so that after player collides enemy, user will be asked either to continue or try again
+5.additionally can add level of games and the data could be stored temporarily to make it more interesting
