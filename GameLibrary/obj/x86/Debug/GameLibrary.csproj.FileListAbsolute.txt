@@ -1,0 +1,288 @@
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.dll
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.pri
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.dll
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\bin\x86\Debug\GameLibrary.dll
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\bin\x86\Debug\GameLibrary.pri
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\GameLibrary.dll
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\bin\x86\Debug\GameLibrary.dll
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\bin\x86\Debug\GameLibrary.pri
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\GameLibrary.dll
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\bin\x86\Debug\GameLibrary.dll
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\bin\x86\Debug\GameLibrary.pri
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibrary.dll
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\bin\x86\Debug\GameLibrary.dll
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\bin\x86\Debug\GameLibrary.pri
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibrary.dll
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\priconfig.xml
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\resources.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\pri.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\qualifiers.txt
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\GameLibrary.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\GameLibr.D5A65543.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
