@@ -1,0 +1,980 @@
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\App.xbf
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\MainPage.xbf
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\GameInterface.exe
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\GameInterface.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\resources.pri
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\AppxManifest.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\System.Runtime.dll
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.dll
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.pri
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\App.g.i.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\App.g.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\MainPage.g.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\App.xaml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\MainPage.xaml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\App.xbf
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\MainPage.xbf
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\GameInterface.exe
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\GameInterface.pdb
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\priconfig.xml
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\resources.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\pri.resfiles
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\qualifiers.txt
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\mvanderlely\OneDrive - NC\Teaching_Fall24\F24_PROG1621\Labs\UWPGame\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - screen size, cleanup\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\App.xbf
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\MainPage.xbf
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameInterface.exe
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameInterface.pdb
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\resources.pri
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\AppxManifest.xml
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\System.Runtime.dll
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameLibrary.dll
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameLibrary.pdb
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameLibrary.pri
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\App.g.i.cs
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\App.g.cs
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MainPage.g.cs
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\App.xaml
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MainPage.xaml
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\App.xbf
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MainPage.xbf
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInterface.exe
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInterface.pdb
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\priconfig.xml
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\resources.resfiles
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\pri.resfiles
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\qualifiers.txt
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\dtailor1\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\App.xbf
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\MainPage.xbf
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameInterface.exe
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameInterface.pdb
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\resources.pri
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\AppxManifest.xml
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\System.Runtime.dll
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameLibrary.dll
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameLibrary.pdb
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\bin\x86\Debug\GameLibrary.pri
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\App.g.i.cs
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\App.g.cs
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MainPage.g.cs
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\App.xaml
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MainPage.xaml
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\App.xbf
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MainPage.xbf
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInterface.exe
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\GameInterface.pdb
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\priconfig.xml
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\resources.resfiles
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\pri.resfiles
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\qualifiers.txt
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\User\Downloads\UWPGame - timer, cleanup\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\App.xbf
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\MainPage.xbf
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameInterface.exe
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameInterface.pdb
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\resources.pri
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\AppxManifest.xml
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\System.Runtime.dll
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameLibrary.dll
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameLibrary.pdb
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\bin\x86\Debug\GameLibrary.pri
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\App.g.i.cs
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\App.g.cs
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\MainPage.g.cs
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\App.xaml
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\MainPage.xaml
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\App.xbf
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\MainPage.xbf
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\GameInterface.exe
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\GameInterface.pdb
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\priconfig.xml
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\resources.resfiles
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\pri.resfiles
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\qualifiers.txt
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\User\Downloads\UWPGame - cleanup, screen size, timer, border-stop\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\App.xbf
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\MainPage.xbf
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameInterface.exe
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameInterface.pdb
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\resources.pri
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\AppxManifest.xml
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\System.Runtime.dll
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameLibrary.dll
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameLibrary.pdb
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameLibrary.pri
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\App.g.i.cs
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\App.g.cs
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\MainPage.g.cs
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\App.xaml
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\MainPage.xaml
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\App.xbf
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\MainPage.xbf
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\GameInterface.exe
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\GameInterface.pdb
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\priconfig.xml
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\resources.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\pri.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\qualifiers.txt
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\User\Downloads\UWPGame - 1B.1\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\App.xbf
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\MainPage.xbf
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameInterface.exe
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameInterface.pdb
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\resources.pri
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\AppxManifest.xml
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\System.Runtime.dll
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameLibrary.dll
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameLibrary.pdb
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameLibrary.pri
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\App.g.i.cs
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\App.g.cs
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MainPage.g.cs
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\App.xaml
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MainPage.xaml
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\App.xbf
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MainPage.xbf
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInterface.exe
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInterface.pdb
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\priconfig.xml
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\resources.resfiles
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\pri.resfiles
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\qualifiers.txt
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\dtailor1\OneDrive - NC\Desktop\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\App.xbf
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\MainPage.xbf
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameInterface.exe
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameInterface.pdb
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\resources.pri
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\AppxManifest.xml
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\System.Runtime.dll
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameLibrary.dll
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameLibrary.pdb
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\bin\x86\Debug\GameLibrary.pri
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\App.g.i.cs
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\App.g.cs
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MainPage.g.cs
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\App.xaml
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MainPage.xaml
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\App.xbf
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MainPage.xbf
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInterface.exe
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\GameInterface.pdb
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\priconfig.xml
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\resources.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\pri.resfiles
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\qualifiers.txt
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\User\Downloads\UWPGame - 1B.1 - cleancode\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - cleancode - Copy\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class, player not moving\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\GameInterface.xr.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\resources.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\Core\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\GameInterface.build.appxrecipe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\System.Runtime.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\GameLibrary.dll
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\GameLibrary.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\bin\x86\Debug\GameLibrary.pri
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\GameInterface.csproj.AssemblyReference.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\App.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\App.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\MainPage.g.i.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\MainPage.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\App.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\MainPage.xaml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\App.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\MainPage.xbf
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\GameInterface.csproj.CoreCompileInputs.cache
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\GameInte.64395601.Up2Date
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\GameLibrary.pri.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\GameInterface.exe
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\GameInterface.pdb
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\priconfig.xml
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\filtered.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\excluded.layout.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\resources.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\pri.resfiles
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\qualifiers.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC Comp Prog & Ana\term 6\data structure\lab 1\UWPGame - 1B.2 - Final - seperate class 1 - rewrite\GameInterface\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441599520000000.json
